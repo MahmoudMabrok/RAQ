@@ -1,6 +1,6 @@
 # RAQ
 
-RAQ stabds for (Real android questions) it is inititive to share questions and tips for android interivews. Everyone would share questions and tips to this repo. 
+RAQ stands for (Real android questions) it is inititive to share questions and tips for android interivews. Everyone would share questions and tips to this repo. 
 
 # Structure 
 
